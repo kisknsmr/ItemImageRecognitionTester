@@ -1,6 +1,3 @@
-### 1. README.md
-
-```markdown
 # Deep Learning Image Recognition & Analysis Suite
 
 このプロジェクトは、TensorFlow/Kerasを利用して、複数の深層学習モデルによる画像認識精度の比較、学習用データの作成（画像分割）、およびモデルのファインチューニングを行うためのツール群です。

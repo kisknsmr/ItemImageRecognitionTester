@@ -5,6 +5,3 @@ scikit-learn
 
 # Image Processing
 Pillow
-
-# GUI Additional Assets
-# (tkinter は標準ライブラリに含まれます)
